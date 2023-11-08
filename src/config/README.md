@@ -11,7 +11,7 @@ All files in this folder should end with `.config.ts`
 ## File Descriptions
 ```
 +-- /config
-|  |-- environment.ts
+|  |-- environment.config.ts
 |  |-- features.config.ts
 ```
 

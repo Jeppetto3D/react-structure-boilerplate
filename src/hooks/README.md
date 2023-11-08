@@ -20,7 +20,7 @@ npx generate-react-cli component --type=hook <Component Name>
 ## Hook Architecture
 
 ```
-+-- <HookName>
++-- /<HookName>
 |  |-- <HookName>.txs
 |  |-- <HookName>.d.ts
 |  |-- <ComponentName>.spec.tsx
